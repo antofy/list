@@ -8244,7 +8244,6 @@
           "id": "unsupported|cosmos",
           "funds": ["kr1", "dragonfly_capital_partners", "iosg_ventures", "hashed", "uncorrelated_ventures"]
       },
-    
       {
           "code": "AVAX",
           "name": "Avalanche",
@@ -8279,25 +8278,6 @@
           "id": "bep20|0xca3f508b8e4dd382ee878a314789373d80a5190a",
           "funds": []
       },
-      {
-          "code": "MDEFI",
-          "name": "Metaegg DeFi",
-          "categories": ["defi"],
-          "active": true,
-          "links": {
-              "website": "https://metaegg.finance/",
-              "whitepaper": "",
-              "guide": "",
-              "twitter": "https://twitter.com/metaegg_io",
-              "github": "https://github.com/metaegg",
-              "reddit": "",
-              "telegram": "https://t.me/metaegg_io"
-          },
-          "rating": "",
-          "id": "bep20|0x39af062b155978f1d41b299601defac54e94cbd8",
-          "funds": []
-      },
-    
       {
           "code": "BNB",
           "name": "Binance Coin",
@@ -9600,6 +9580,26 @@
           },
           "rating": "",
           "id": "bep20|0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+          "funds": []
+      },
+              {
+          "code": "MEGG",
+          "name": "Metaegg DeFi",
+          "categories": ["exchange_tokens"],
+          "active": true,
+          "platform": { "name": "", "address": "", "type": "" },
+          "description": "",
+          "links": {
+              "website": "",
+              "whitepaper": "",
+              "guide": "",
+              "twitter": "",
+              "github": "",
+              "reddit": "",
+              "telegram": ""
+          },
+          "rating": "",
+          "id": "bep20|0x39af062b155978f1d41b299601defac54e94cbd8",
           "funds": []
       },
       {
@@ -11810,11 +11810,11 @@
             "id": "bithash",
             "name": "BitHash",
             "image_url": "https://assets.coingecko.com/markets/images/171/small/bithash.png?1562037390"
-             {
+        }
+         {
             "id": "metaegg-defi",
             "name": "Metaegg DeFi",
             "image_url": "https://assets.coingecko.com/coins/images/26710/small/62b87e40c8261218d388be04.png?1659668347"
-        }
         }
     ]
 }
