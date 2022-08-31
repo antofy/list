@@ -8244,22 +8244,7 @@
           "id": "unsupported|cosmos",
           "funds": ["kr1", "dragonfly_capital_partners", "iosg_ventures", "hashed", "uncorrelated_ventures"]
       },
-       {
-          "code": "MDEFI",
-          "name": "Metaegg DeFi",
-          "categories": ["defi"],
-          "active": true,
-          "description": "### Project Description\n\nMetaegg DeFi is a high-speed DEX enabled trading that's capable of confirming transactions in under one second.\n\nMetaegg DeFi features complete support for the Cross Blockchain Trading.\n\n### Token Description\n\nMDEFI is the native token of the Metaegg DeFi platform and it is the native coin for all kind of trsactions. MDEFI tokens that are used for transaction fees are burned, increasing scarcity of MDEFI.\n\nMDEFI token holders may stake their funds and earn staking rewards which are subject to dynamic changes as the system evolves.\n\nThere can be only 75 million tokens, with slightly over 5% of that amount currently in circulation. The rate at which the maximum cap is reached can vary based on MDEFI holders governance vote.\n\nMetaegg DeFi transaction fees whicha re paid in BNB tokens go towards Stake holders, LP  and burned, thus increasing scarcity of the MDEFI.\n\nMetaegg DeFi also boasts one of the most egalitarian token distribution plans in the space, with less than 1% of mainnet tokens issued to private investors and almost 90% issued to people building on the ecosystem.",
-           "links": { "website": "", "whitepaper": "", "twitter": "", "reddit": "", "telegram": "" },
-          "security": {
-              "privacy": "medium",
-              "decentralized": true,
-              "confiscation_resistance": true,
-              "censorship_resistance": true
-          },
-          "id": "metaegg-defi",
-          "funds": ["digital_finance_group", "lemniscap", "iosg_ventures", "ngc_ventures"]
-      },
+    
       {
           "code": "AVAX",
           "name": "Avalanche",
@@ -8294,6 +8279,25 @@
           "id": "bep20|0xca3f508b8e4dd382ee878a314789373d80a5190a",
           "funds": []
       },
+      {
+          "code": "MDEFI",
+          "name": "Metaegg DeFi",
+          "categories": ["defi"],
+          "active": true,
+          "links": {
+              "website": "https://metaegg.finance/",
+              "whitepaper": "",
+              "guide": "",
+              "twitter": "https://twitter.com/metaegg_io",
+              "github": "https://github.com/metaegg",
+              "reddit": "",
+              "telegram": "https://t.me/metaegg_io"
+          },
+          "rating": "",
+          "id": "bep20|0x39af062b155978f1d41b299601defac54e94cbd8",
+          "funds": []
+      },
+    
       {
           "code": "BNB",
           "name": "Binance Coin",
